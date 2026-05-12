@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentence-transformers
+pymilvus
+openai
+pillow
+numpy
+accelerate
+bitsandbytes
